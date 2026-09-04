@@ -1,0 +1,6 @@
+{
+  "name": "Xerox",
+  "description": "Upload photos, crop to official passport, stamp, or postcard sizes, choose even quantities up to 50, and generate print-ready A4 sheets with cutting gaps for JPEG and PDF download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
